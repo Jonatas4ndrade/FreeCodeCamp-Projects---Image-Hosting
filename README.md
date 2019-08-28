@@ -1,1 +1,1 @@
-FreeCodeCAmp (https://learn.freecodecamp.org) is a great (and free) resource for those interested in learning to code, but it lacks a hosting solution for media used in projects. Github is a good option to do so AND with the bonus of being introduced to git.
+FreeCodeCAmp (https://learn.freecodecamp.org) is a great (and free) resource for those interested in learning to code, but it lacks a hosting solution for media used in projects. Github is a good option to fill that gap, with the bonus of being introduced to git in the process.
